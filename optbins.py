@@ -3,8 +3,6 @@ import numpy as np
 from scipy import special as sp
 import math
 
-import matplotlib.pyplot as plt
-
 def OPTBINS(target, maxBins):
     """
     :param target: array with size (1, N)
